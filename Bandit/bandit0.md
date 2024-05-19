@@ -7,7 +7,7 @@
 위 문제는 맨 처음에 Command you may need to solve this level에 있는 ssh를 이용하여 linux에서 bandit Level 0겸 bandit 접속을 위한 기초적인 과정임.
 접속 명령어는 아래와 같다.
 
-   ssh bandit0@bandit.labs.overthewire.org -p 2220
+      ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 ssh는 Secure Shell 이라고 부르며 이는 네트워크를 통해 안전하게 원격 시스템에 접속하고 명령을 실행할 수 있게 해주는 프로토콜이자 도구이다.
 
