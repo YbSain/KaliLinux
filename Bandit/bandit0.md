@@ -4,7 +4,7 @@
 
 ![image](https://github.com/YbSain/KaliLinux/assets/108385276/407736b2-0b66-4fe4-98d7-2581416af6a6)
 
-위 문제는 맨 처음에 Command you may need to solve this level에 있는 ssh를 이용하여 linux에서 bandit Level 0겸 bandit 접속을 위한 기초적인 과정임.
+위 문제는 맨 처음에 Command you may need to solve this level에 있는 ssh를 이용하여 linux에서 bandit Level 0겸 bandit 접속을 위한 기초적인 과정임.   
 접속 명령어는 아래와 같다.
 
       ssh bandit0@bandit.labs.overthewire.org -p 2220
