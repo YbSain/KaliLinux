@@ -1,4 +1,4 @@
-![image](https://github.com/YbSain/KaliLinux/assets/108385276/64c66a63-2ec3-49ca-b8bd-6d13cbb23c13)![image](https://github.com/YbSain/KaliLinux/assets/108385276/a9611303-9b93-479b-a6e7-a657dcf647a1)# bandit0 -> bandit 1 문제
+# bandit0 -> bandit 1 문제
 
 ![image](https://github.com/YbSain/KaliLinux/assets/108385276/b3d89480-5d0d-439a-a02b-25ee9de59e54)
 
