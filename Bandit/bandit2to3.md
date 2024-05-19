@@ -9,9 +9,9 @@
 
 ![image](https://github.com/YbSain/KaliLinux/assets/108385276/43d4e60e-d4bb-4a18-b212-9e5f194a8a6c)
 
-## How To Solve
-
 cat 명령어가 한 파일로 읽는 것이 아닌, 공백마다 하나 하나 따로 읽는 모습이다.
+
+## How To Solve
 
 이에 대한 해결 방법으로는 *""* *''* *\* 세가지가 있다.
 
