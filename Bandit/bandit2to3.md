@@ -20,3 +20,6 @@ cat 명령어가 한 파일로 읽는 것이 아닌, 공백마다 하나 하나 
 ![image](https://github.com/YbSain/KaliLinux/assets/108385276/25af3022-8ae4-428c-86ca-07f2af1b62c9)
 
 세가지 전부 cat명령어가 제대로 실행 되었고, 동일한 passward가 나왔다.
+
+## Passward
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
