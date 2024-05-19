@@ -11,7 +11,7 @@
 
 ## Helpful Reading Material
 ### Google Search for "dashed filename"
-dash filename에 대해 검색해보라고 한다.
+dash filename에 대해 검색해보라고 한다.   
 dash filename은 현재 디렉토리 위치를 가르키는 __./__ 를 사용하여 **./-** 를 사용해야 cat이 인식할 수 있다.
 
 ![image](https://github.com/YbSain/KaliLinux/assets/108385276/13de770d-d339-4bce-8029-06553a62b36d)
