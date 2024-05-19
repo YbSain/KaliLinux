@@ -18,7 +18,7 @@ dash filename은 현재 디렉토리 위치를 가르키는 __./__ 를 사용하
 
 바로 **passward**가 나오는 모습을 볼 수 있다.
 
+똑같이 bandit2레벨을 위에서 나온 passward를 사용해서 **ssh bandit2@bandit.labs.overthewire.org -p 2220** 을 사용하여 접속할 수 있다.
+
 ## Passward
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
-
-똑같이 bandit2레벨을 위에서 나온 passward를 사용해서 **ssh bandit2@bandit.labs.overthewire.org -p 2220** 을 사용하여 접속할 수 있다.
