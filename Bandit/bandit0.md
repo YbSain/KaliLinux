@@ -1,5 +1,3 @@
-![image](https://github.com/YbSain/KaliLinux/assets/108385276/b41f99ca-0795-4f11-aefb-70c454ed1d8a)
-
 # bandit0부터 시작
 
 1. 문제
