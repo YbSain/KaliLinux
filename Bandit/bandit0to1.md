@@ -28,3 +28,6 @@ __cat__ 명령어 사용결과 무작위로 입력돼있는 패스워드가 나�
 ![image](https://github.com/YbSain/KaliLinux/assets/108385276/68b0ebae-c1d2-4080-ab55-15588e0fea47)
 
 위는 1단계로 접속 완료한 모습이다.
+
+## passward
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
