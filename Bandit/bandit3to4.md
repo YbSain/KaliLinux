@@ -31,3 +31,5 @@ ls 사용결과 홈디렉토리 내부에 inhere 디렉토리가 있다.
 
 
 ## Passward
+
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
