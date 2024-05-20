@@ -2,8 +2,10 @@
 
 ![image](https://github.com/YbSain/KaliLinux/assets/108385276/0f371fc9-ccf0-47d8-b06c-c6204247ce57)
 
-## 문제 풀이
+## Level Goal
 이번 레벨의 목표는 inhere 디렉토리의 hidden file을 찾는 문제이다.
+
+## How to Solve
 
 ### ls 사용
 
