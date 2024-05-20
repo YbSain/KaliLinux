@@ -25,7 +25,7 @@ ls 사용결과 홈디렉토리 내부에 inhere 디렉토리가 있다.
 
 이전에는 보이지않았던 . .. 디렉토리와 __.hidden__ 파일이 보인다.
 
-## ANS
+## Solved
 
 ![image](https://github.com/YbSain/KaliLinux/assets/108385276/8ed32479-a996-4f24-8527-46d6d1ee0605)
 
