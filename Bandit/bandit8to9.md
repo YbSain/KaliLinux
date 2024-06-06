@@ -22,3 +22,4 @@ cat으로 계속 하였으나 결론이 나지않아 웹서핑을 해보니, 중
 ![image](https://github.com/YbSain/KaliLinux/assets/108385276/53966a68-d5de-4024-b113-cd85cc7ecdec)
 
 ## PAss word
+EN632PlfYiZbn3PhVK3XOGSlNInNE00t
