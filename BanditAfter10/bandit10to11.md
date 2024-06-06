@@ -16,3 +16,4 @@ base64의 메뉴얼을 살펴보면 -d 를 사용할 경우 디코딩을 할수 
 ## Solve
 ![image](https://github.com/YbSain/KaliLinux/assets/108385276/c45c269a-f67c-408d-a5f2-f605371cd8e5)
 ## Password
+6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
